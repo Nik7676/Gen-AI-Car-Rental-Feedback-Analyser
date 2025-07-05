@@ -1,0 +1,1 @@
+This is a Car Rental Customer Feedback Classifier created by me - Nikhilesh Pratap Jana - while studying as a B.Tech Student at VIT Chennai. It mainly uses DistilBert for it's major functionalities for sentiment analysis. You free to view and peruse
